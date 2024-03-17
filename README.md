@@ -1,5 +1,3 @@
 # Ryloth
 
-This is a new edit from my local computer.
-
-This is a second example
+This is my very first Repo.
